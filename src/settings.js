@@ -1,5 +1,5 @@
 module.exports = {
-  title: '测试系统',
+  title: '测试系统_zhp',
 
   /**
    * @type {boolean} true | false

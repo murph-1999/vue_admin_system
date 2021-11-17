@@ -165,7 +165,7 @@ export default {
               this.loading = false
             })
         } else {
-          console.log('error submit!!请重新提交bug01')
+          console.log('error submit!!请重新提交bug02')
           return false
         }
       })

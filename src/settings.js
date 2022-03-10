@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vue Element Admin',
+  title: 'Vue Element Admin1.0',
 
   /**
    * @type {boolean} true | false
